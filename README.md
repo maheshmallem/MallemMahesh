@@ -23,4 +23,4 @@ I've spent 10 years shipping production mobile apps with **Flutter**. Now I comb
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 ## Let's connect
-[GitHub](https://github.com/maheshmallem) · [LinkedIn](ADD-YOUR-LINKEDIN-URL) · [Email](mailto:ADD-YOUR-EMAIL)
+[GitHub](https://github.com/maheshmallem) · [LinkedIn](https://www.linkedin.com/in/mahesh-mallem-8b481094/) · [Email](mailto:mallemmahesh@gmail.com)
